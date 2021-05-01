@@ -1,0 +1,7 @@
+this python program is for plotting almost any function in one variable 
+can handle Trigonometric functions like sin(x), cos(x),..etc. 
+and it can plot power function like x^2 and sqrt(x) quare root. 
+And frictions 1/x and almost all function.
+it can handle zero division and not suitable inputs problem
+you have to inter the function and the max and minimum valuse and press plot f(x)
+there more fetures i will add in later versions
